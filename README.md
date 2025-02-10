@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://drive.google.com/file/d/1jbxBBF6265EwA1QSQWXd5YWEhjssrFNq/view?usp=sharing" alt="0xredzeth Banner" width="500"/>
-</p>
 
 <h1 align="center">Hi, I'm Zastava</h1>
 <p align="center">Backend Developer & Blockchain wizard</p>
